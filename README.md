@@ -2,6 +2,7 @@
 # Projeto fundamentos de webdesign.
 
 Um site feito para a disciplina de fundamentos de webdesign, do curso de desenvolvimento de sistemas, Senai.
+ Link githubpages: https://saiiru.github.io/senaiFWD/
 
 **Tecnologias**
 - HTML
